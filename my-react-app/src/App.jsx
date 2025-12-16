@@ -1,7 +1,8 @@
-import './App.css'
+import './App.css';
 
 function App() {
-  const greeting = <h1>Welcome to the React Basics Course!</h1>;
+  const greeting = <h1>Welcome to learn React basics!</h1>;
+
   return (
     <>
       {greeting}
